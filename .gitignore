@@ -1,0 +1,7 @@
+.idea/
+*.iml
+*.code-workspace
+.DS_Store
+*.log
+/report
+/venv
